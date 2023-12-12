@@ -1,0 +1,104 @@
+.mainblock {
+    display: flex;
+}
+
+
+
+
+
+
+
+.block1 {
+    width: 500px;
+    height: 150px;
+    background-color: blueviolet;
+}
+
+.block2 {
+    width: 500px;
+    height: 310px;
+    background-color: rgb(177, 137, 214);
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.colum2 {
+    margin-left: 10px;
+}
+
+.block3 {
+    width: 500px;
+    height: 150px;
+    background-color: rgb(87, 24, 146);
+}
+
+.block4 {
+    width: 500px;
+    height: 150px;
+    background-color: rgb(124, 93, 154);
+    margin-top: 10px;
+}
+.block5 {
+    width: 500px;
+    height: 150px;
+    background-color: rgb(132, 0, 255);
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+.colum3 {
+    margin-left: 10px;
+}
+
+.block6 {
+    width: 500px;
+    height: 310px;
+    background-color: rgb(112, 53, 168);
+}
+
+.block7 {
+    width: 1010px;
+    height: 150px;
+    background-color: rgb(96, 66, 125);
+    margin-top: 10px;
+}
+
+
+.colum4 {
+    position: relative;
+    margin-left: -500px;
+}
+
+.block8 {
+    width: 1010px;
+    height: 150px;
+    background-color: rgb(136, 66, 202);
+}
+
+.block9 {
+    width: 500px;
+    height: 150px;
+    background-color: rgb(137, 103, 169);
+    margin-top: 10px;
+}
+
+.colum5 {
+    position: relative;
+    margin-left: -500px;
+    margin-top: 160px;
+}
+
+.block10 {
+    width: 500px;
+    height: 310px;
+    background-color: rgb(107, 53, 157);
+}
